@@ -13,5 +13,6 @@
     },
     "keywords": ["color", "picker", "widget", "javascript"],
     "author": "Your Name",
-    "license": "MIT"
+    "license": "MIT",
+    "homepage": "https://yourusername.github.io/color-picker-widget/"
 }
