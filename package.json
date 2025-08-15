@@ -1,0 +1,14 @@
+{
+    "name": "color-picker-widget",
+    "version": "1.0.0",
+    "description": "A customizable and interactive color picker widget for web applications.",
+    "main": "src/color-picker.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yourusername/color-picker-widget.git"
+    },
+    "keywords": ["color", "picker", "widget", "javascript"],
+    "author": "Your Name",
+    "license": "MIT"
+}
