@@ -3,7 +3,10 @@
     "version": "1.0.0",
     "description": "A customizable and interactive color picker widget for web applications.",
     "main": "src/color-picker.js",
-    "scripts": {},
+    "scripts": {
+        "build": "webpack --mode production",
+        "test": "jest"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/yourusername/color-picker-widget.git"
